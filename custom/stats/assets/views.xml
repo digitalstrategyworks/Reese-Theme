@@ -1,0 +1,284 @@
+<views>
+<view mc="date1_mc">
+	<date>Nov. 1</date>
+	<page_views>7,427</page_views>
+</view>
+<view mc="date2_mc">
+	<date>Nov. 2</date>
+	<page_views>6,602</page_views>
+</view>
+<view mc="date3_mc">
+	<date>Nov. 3</date>
+	<page_views>3,539</page_views>
+</view>
+<view mc="date4_mc">
+	<date>Nov. 4</date>
+	<page_views>2,323</page_views>
+</view>
+<view mc="date5_mc">
+	<date>Nov. 5</date>
+	<page_views>1,274</page_views>
+</view>
+<view mc="date6_mc">
+	<date>Nov. 6</date>
+	<page_views>690</page_views>
+</view>
+<view mc="date7_mc">
+	<date>Nov. 7</date>
+	<page_views>631</page_views>
+</view>
+<view mc="date8_mc">
+	<date>Nov. 8</date>
+	<page_views>1,626</page_views>
+</view>
+<view mc="date9_mc">
+	<date>Nov. 9</date>
+	<page_views>1,671</page_views>
+</view>
+
+<view mc="date10_mc">
+	<date>Nov. 10</date>
+	<page_views>2,080</page_views>
+</view>
+
+<view mc="date11_mc">
+	<date>Nov. 11</date>
+	<page_views>1,170</page_views>
+</view>
+
+<view mc="date12_mc">
+	<date>Nov. 12</date>
+	<page_views>1,250</page_views>
+</view>
+<view mc="date13_mc">
+	<date>Nov. 13</date>
+	<page_views>526</page_views>
+</view>
+<view mc="date14_mc">
+	<date>Nov. 14</date>
+	<page_views>653</page_views>
+</view>
+<view mc="date15_mc">
+	<date>Nov. 15</date>
+	<page_views>1,544</page_views>
+</view>
+<view mc="date16_mc">
+	<date>Nov. 16</date>
+	<page_views>1,370</page_views>
+</view>
+<view mc="date17_mc">
+	<date>Nov. 17</date>
+	<page_views>4,579</page_views>
+</view>
+<view mc="date18_mc">
+	<date>Nov. 18</date>
+	<page_views>16,133</page_views>
+</view>
+<view mc="date19_mc">
+	<date>Nov. 19</date>
+	<page_views>5,867</page_views>
+</view>
+<view mc="date20_mc">
+	<date>Nov. 20</date>
+	<page_views>1,192</page_views>
+</view>
+<view mc="date21_mc">
+	<date>Nov. 21</date>
+	<page_views>1,257</page_views>
+</view>
+<view mc="date22_mc">
+	<date>Nov. 22</date>
+	<page_views>2,273</page_views>
+</view>
+<view mc="date23_mc">
+	<date>Nov. 23</date>
+	<page_views>1,803</page_views>
+</view>
+<view mc="date24_mc">
+	<date>Nov. 24</date>
+	<page_views>794</page_views>
+</view>
+<view mc="date25_mc">
+	<date>Nov. 25</date>
+	<page_views>357</page_views>
+</view>
+<view mc="date26_mc">
+	<date>Nov. 26</date>
+	<page_views>412</page_views>
+</view>
+<view mc="date27_mc">
+	<date>Nov. 27</date>
+	<page_views>434</page_views>
+</view>
+<view mc="date28_mc">
+	<date>Nov. 28</date>
+	<page_views>498</page_views>
+</view>
+<view mc="date29_mc">
+	<date>Nov. 29</date>
+	<page_views>1,136</page_views>
+</view>
+<view mc="date30_mc">
+	<date>Nov. 30</date>
+	<page_views>1,262</page_views>
+</view>
+<view mc="date31_mc">
+	<date>Dec. 1</date>
+	<page_views>1,247</page_views>
+</view>
+<view mc="date32_mc">
+	<date>Dec. 2</date>
+	<page_views>1,316</page_views>
+</view>
+<view mc="date33_mc">
+	<date>Dec. 3</date>
+	<page_views>1,058</page_views>
+</view>
+<view mc="date34_mc">
+	<date>Dec. 4</date>
+	<page_views>449</page_views>
+</view>
+<view mc="date35_mc">
+	<date>Dec. 5</date>
+	<page_views>515</page_views>
+</view>
+<view mc="date36_mc">
+	<date>Dec. 6</date>
+	<page_views>920</page_views>
+</view>
+<view mc="date37_mc">
+	<date>Dec. 7</date>
+	<page_views>1,815</page_views>
+</view>
+<view mc="date38_mc">
+	<date>Dec. 8</date>
+	<page_views>1,171</page_views>
+</view>
+<view mc="date39_mc">
+	<date>Dec. 9</date>
+	<page_views>1,196</page_views>
+</view>
+
+<view mc="date40_mc">
+	<date>Dec. 10</date>
+	<page_views>824</page_views>
+</view>
+
+<view mc="date41_mc">
+	<date>Dec. 11</date>
+	<page_views>518</page_views>
+</view>
+
+<view mc="date42_mc">
+	<date>Dec. 12</date>
+	<page_views>618</page_views>
+</view>
+<view mc="date43_mc">
+	<date>Dec. 13</date>
+	<page_views>961</page_views>
+</view>
+<view mc="date44_mc">
+	<date>Dec. 14</date>
+	<page_views>1,465</page_views>
+</view>
+<view mc="date45_mc">
+	<date>Dec. 15</date>
+	<page_views>1,808</page_views>
+</view>
+<view mc="date46_mc">
+	<date>Dec. 16</date>
+	<page_views>1,222</page_views>
+</view>
+<view mc="date47_mc">
+	<date>Dec. 17</date>
+	<page_views>1,110</page_views>
+</view>
+<view mc="date48_mc">
+	<date>Dec. 18</date>
+	<page_views>624</page_views>
+</view>
+<view mc="date49_mc">
+	<date>Dec. 19</date>
+	<page_views>358</page_views>
+</view>
+<view mc="date50_mc">
+	<date>Dec. 20</date>
+	<page_views>628</page_views>
+</view>
+<view mc="date51_mc">
+	<date>Dec. 21</date>
+	<page_views>381</page_views>
+</view>
+<view mc="date52_mc">
+	<date>Dec. 22</date>
+	<page_views>356</page_views>
+</view>
+<view mc="date53_mc">
+	<date>Dec. 23</date>
+	<page_views>276</page_views>
+</view>
+<view mc="date54_mc">
+	<date>Dec. 24</date>
+	<page_views>271</page_views>
+</view>
+<view mc="date55_mc">
+	<date>Dec. 25</date>
+	<page_views>157</page_views>
+</view>
+<view mc="date56_mc">
+	<date>Dec. 26</date>
+	<page_views>231</page_views>
+</view>
+<view mc="date57_mc">
+	<date>Dec. 27</date>
+	<page_views>339</page_views>
+</view>
+<view mc="date58_mc">
+	<date>Dec. 28</date>
+	<page_views>488</page_views>
+</view>
+<view mc="date59_mc">
+	<date>Dec. 29</date>
+	<page_views>469</page_views>
+</view>
+<view mc="date60_mc">
+	<date>Dec. 30</date>
+	<page_views>225</page_views>
+</view>
+<view mc="date61_mc">
+	<date>Dec. 31</date>
+	<page_views>211</page_views>
+</view>
+<view mc="date62_mc">
+	<date>Jan. 1</date>
+	<page_views>254</page_views>
+</view>
+<view mc="date63_mc">
+	<date>Jan. 2</date>
+	<page_views>262</page_views>
+</view>
+<view mc="date64_mc">
+	<date>Jan. 3</date>
+	<page_views>366</page_views>
+</view>
+<view mc="date65_mc">
+	<date>Jan. 4</date>
+	<page_views>385</page_views>
+</view>
+<view mc="date66_mc">
+	<date>Jan. 5</date>
+	<page_views>385</page_views>
+</view>
+<view mc="date67_mc">
+	<date>Jan. 6</date>
+	<page_views>408</page_views>
+</view>
+<view mc="date68_mc">
+	<date>Jan. 7</date>
+	<page_views>317</page_views>
+</view>
+</views>
+			
+	
+		
+

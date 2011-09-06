@@ -1,0 +1,66 @@
+/* @override http://reesenews.org/wp-content/themes/thematic/503-style.css */
+
+* { 
+	margin: 0; 	padding: 0;
+	font-family: AntennaRE; 
+}
+
+body { 
+	font-family: AntennaRE, sans-serif;
+	font-size: 68%; 
+	text-align: center;
+	background-color: #ffffff;
+	-moz-box-shadow: 0px 0px 15px #acacac; /* Firefox */
+	-webkit-box-shadow: 0px 0px 15px #acacac; /* Safari, Chrome */
+	box-shadow: 0px 0px 15px #acacac; /* CSS3 */
+	margin-top: 10px;
+	width: 940px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.header {
+	height: 5px;
+	width: auto;
+	background-color: #759FC7; 
+}
+
+a {
+	color: #759FC7;
+}
+
+a:hover {
+	color: #759FC7;
+}
+
+h1, h2 { 
+	color: #000000; line-height: 80px;
+	font-family: AntennaRE, sans-serif; 
+}
+
+h1 {
+	font-size: 220%; 
+}
+
+#content {
+	margin-top: 130px;
+}
+
+p {
+	padding-bottom: 10px;
+}
+
+#content {
+	padding: 0px 30px;
+}
+
+#content table {
+	padding-left: 80px;
+}
+
+#footer {
+	height: 5px;
+	width: auto;
+	background-color: #759FC7;
+	color: #000000;
+}

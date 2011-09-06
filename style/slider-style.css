@@ -1,0 +1,133 @@
+/* @override 
+	http://localhost/wp-content/themes/reesenews/style/slider-style.css
+	http://dev.reesenews.org/wp-content/themes/reesenews/style/slider-style.css
+*/
+
+#slider {
+
+	/* You MUST specify the width and height */
+	width:940px;
+	height:292px;
+	position:relative;	
+	overflow:hidden;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+#mask-gallery {
+	overflow:hidden;	
+}
+
+#slider-blue {
+	height: 70px;
+	width: 15px;
+	background-color: #759EC7;
+	z-index: 900;
+	position: absolute;
+	top: 20px;
+	left: 0;
+}
+
+#gallery {
+	
+	/* Clear the list style */
+	list-style:none;
+	margin:0;
+	padding:0;
+	
+	z-index:0;
+	
+	/* width = total items multiply with #mask gallery width */
+	width:900px;
+	overflow:hidden;
+}
+
+	#gallery li {
+
+		
+		/* float left, so that the items are arrangged horizontally */
+		float:left;
+	}
+
+
+#mask-excerpt {
+	
+	/* Set the position */
+	margin-left: 15px !important;
+	position:absolute;	
+	top:20px;
+	height:273px !important;
+	left:0;
+	z-index:500;
+	
+	/* width should be lesser than #slider width */
+	width:267px;
+	overflow:hidden;	
+	
+}
+	
+#excerpt {
+	/* Opacity setting for different browsers */
+	filter:alpha(opacity=80);
+	-moz-opacity:0.8;  
+	-khtml-opacity: 0.8;
+	opacity: 0.8;  
+	
+	/* Clear the list style */
+	list-style:none;
+	margin:0;
+	padding:0;
+	
+	/* Set the position */
+	z-index:10;
+	position:absolute;
+	top:0;
+	left:0;
+	
+	/* Set the style */
+	width:267px;
+	background-color:#000;
+	overflow:hidden;
+	font-family:arial;
+	font-size:10px;
+	color:#fff;	
+}
+
+ul#excerpt li {
+	height: 273px;
+}
+
+#btn-next {
+	position: relative;
+	top: -140px;
+	left: 905px;
+	z-index: 900;
+	color: #fff;
+	text-decoration:none;
+}
+
+	#excerpt li, #excerpt li.selected {
+		padding: 15px 15px 15px 20px;
+	}
+	
+#btn-prev{
+	position: relative;
+	top: -140px;
+	left: 5px;
+	color: #fff;
+	text-decoration:none;
+	z-index: 900;
+}
+	
+
+
+.clear {
+	clear:both;	
+}
+
+#mask-excerpt ul#excerpt li span.arrows {
+	margin-left:0px;
+	margin-right: 5px;
+}
+
